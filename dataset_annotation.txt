@@ -1,0 +1,14 @@
+
+Chinese Treebank
+
+There are 3,007 text files in this release, containing 71,369 sentences, 1,620,561 words,
+2,589,848 characters (hanzi or foreign). The data is provided in UTF-8 encoding,
+and the annotation has Penn Treebank-style labeled brackets.
+Details of the annotation standard can be found in the segmentation,
+POS-tagging and bracketing guidelines included in this release.
+The data is provided in four different formats: raw text, word segmented,
+POS-tagged and syntactically bracketed formats.
+All files were automatically verified and manually checked.
+
+
+Download from: https://github.com/hankcs/HanLP
